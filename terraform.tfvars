@@ -10,5 +10,9 @@ resource_groups = {
     rg3 = {
         name = "shyam"
         location = "westeurope"
+    },
+    rg4 = {
+        name = "hello"
+        location = "westeurope"
     }
 }
