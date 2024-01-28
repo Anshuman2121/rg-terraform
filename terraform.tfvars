@@ -19,4 +19,6 @@ resource_groups = {
         name = "hello1"
         location = "westeurope"
     }
+    sfsfsf
+    sfsfsffsf
 }
