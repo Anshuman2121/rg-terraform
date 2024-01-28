@@ -6,5 +6,9 @@ resource_groups = {
     rg2 = {
         name = "ram"
         location = "eastus"
+    },
+    rg3 = {
+        name = "shyam"
+        location = "westeurope"
     }
 }
