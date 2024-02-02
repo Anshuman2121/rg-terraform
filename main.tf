@@ -5,3 +5,6 @@ resource "azurerm_resource_group" "example" {
   location = each.value.location
 }
 
+dfdfd
+fdfdfdfdg
+gdgd
