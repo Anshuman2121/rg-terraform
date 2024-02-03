@@ -4,7 +4,3 @@ resource "azurerm_resource_group" "example" {
   name     = each.value.name
   location = each.value.location
 }
-
-dfdfd
-fdfdfdfdg
-gdgd
