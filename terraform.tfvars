@@ -18,5 +18,11 @@ resource_groups = {
     rg5 = {
         name = "hello1"
         location = "westeurope"
+    },
+    rg6 = {
+        name = "dhananjay"
+        location = "westeurope"
     }
 }
+
+#Comment
